@@ -1,4 +1,6 @@
-
+export PATH="$HOME/bin:$PATH";
+export PATH=/usr/local/bin/composer:$PATH
+export PATH="$PATH:$HOME/Library/Python/2.7/bin"
 export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
 export PATH="$PATH:$HOME/.composer/vendor/bin" # Add composer to PATH for Homestead
 export PATH="$PATH:/usr/local/sbin" # Add homebrew to PATH for scripting
